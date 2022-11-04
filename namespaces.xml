@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<?xml-stylesheet type="text/xsl" href="style.xsl" ?>
+<!-- here we make a link with style.xsl file-->
+
+<personData >
+<!-- namespace can be same for another user. for this we can use link or big string-->
+<!-- bar bar namespace(id) k element(user) ar modds use na kore root element(personData) a rake dita pari-->
+
+<user id="1">
+    <fname>Ariful Islam</fname>
+    <lname>Akash</lname>
+    <email>Arif@gmail.com</email>
+    <age>21</age>
+</user>
+<user id="2">
+    <fname>bk</fname>
+    <lname>Akash</lname>
+    <email>bk@gmail.com</email>
+    <age>19</age>
+</user>
+<user id="3">
+    <fname>ck</fname>
+    <lname>Akash</lname>
+    <email>ck@gmail.com</email>
+    <age>41</age>
+</user>
+<user id="4">
+    <fname>dk</fname>
+    <lname>Akash</lname>
+    <email>dk@gmail.com</email>
+    <age>25</age>
+</user>
+<!-- for edit multiple line at a time we have to prass(alt+shift+-->
+</personData>
